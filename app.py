@@ -184,3 +184,4 @@ st.markdown("</div>", unsafe_allow_html=True)
 st.markdown("---")
 st.markdown("<div style='text-align: center; color: #A0A0A0;'>🥩 <b>Martins Analytics</b> • © 2024</div>", unsafe_allow_html=True)
 
+# TESTE PARA O GIT
